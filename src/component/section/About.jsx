@@ -11,7 +11,7 @@ const About = () => {
 
         <div className="flex flex-col lg:flex-row border justify-around items-center shadow-lg shadow-gray-400 rounded-xl p-4 m-4 lg:p-8 lg:m-8 relative">
           <div className="mb-10 lg:w-[25%] w-40">
-            <img src="/src/assets/profil.png" alt="" className="rounded-full" />
+            <img src="../assets/profil.png" alt="" className="rounded-full" />
           </div>
           <div className="flex flex-wrap items-center justify-center p-4 gap-4 lg:gap-2 lg:mb-0 mb-6 lg:absolute bottom-0 left-12">
             <p className="text-3xl lg:text-4xl font-bold text-center cursor-pointer hover:transition-all hover:text-green-500 ">
