@@ -3,7 +3,7 @@ const Navbar = () => {
     <>
       <nav className="bg-white border-gray-200 dark:bg-gray-900 shadow-lg fixed w-full top-0 z-50">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-around p-4">
-          <a href="https://flowbite.com/" className="flex items-center">
+          <a href="#Home" className="flex items-center">
             <h1 className="lg:text-5xl text-3xl font-bold text-green-500">
               <i>MH</i>
             </h1>
