@@ -1,8 +1,8 @@
 import Hero from "../component/section/Hero";
 import Navbar from "../component/navbar/Navbar";
-import About from "../component/section/about";
 import Portfolio from "../component/section/Portfolio";
 import Footer from "../component/section/Footer";
+import About from "../component/section/About";
 
 function App() {
   return (
@@ -11,7 +11,6 @@ function App() {
       <Hero />
       <About />
       <Portfolio />
-
       <Footer />
     </>
   );

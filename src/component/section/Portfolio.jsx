@@ -8,7 +8,7 @@ const Portfolio = () => {
         {/* card tofolist */}
         <Card url="https://app-todolist-mugni.vercel.app/" name="TaskMate" title="A Simple and Intuitive To-Do List for Daily Productivity" img="/src/assets/todo-rresponsive.png" />
         {/* app chill movie */}
-        <Card url="https://app-todolist-mugni.vercel.app/" name="Chill Movie" title="Chill Movie: Relaxed & Modern UI Design for Movie Discovery" img="/src/assets/chill-responsive.png" />
+        <Card url="https://chill-movie-pied.vercel.app/" name="Chill Movie" title="Chill Movie: Relaxed & Modern UI Design for Movie Discovery" img="/src/assets/chill-responsive.png" />
         {/* dashboard chill movie */}
         <Card url="https://my-project-pi-beige.vercel.app/" name="Admin Dashboard Chill Movie" title="Chill Movie Admin Dashboard: Streamlined Management for Movie Curation" img="/src/assets/admin.png" />
       </div>
