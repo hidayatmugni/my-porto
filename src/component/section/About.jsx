@@ -44,7 +44,7 @@ const About = () => {
           </div>
 
           <div className="lg:w-[50%] w-full">
-            <h3 className="text-md lg:text-xl text-justify ">
+            <h3 className="text-md lg:text-xl text-justify mb-4">
               Halo! Saya <i className="text-green-500 font-bold">Mugni Hidayat</i>, seorang Junior Web Developer yang saat ini sedang menjalani bootcamp Full-Stack Web Developer di Harisenin.com. Dengan fokus pada pengembangan front-end, saya telah menguasai teknologi seperti
               HTML, CSS, JavaScript, React, dan Tailwind CSS. Saya bersemangat untuk mengembangkan solusi web yang intuitif dan responsif. Meskipun saya lebih mahir di front-end, saya juga memiliki pemahaman dasar tentang back-end yang
               membantu saya berkolaborasi dengan tim full-stack. Saya selalu terbuka untuk peluang baru dan siap berkontribusi dalam proyek menarik. Silakan lihat karya saya di bagian portfolio!
