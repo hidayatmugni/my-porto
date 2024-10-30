@@ -49,8 +49,8 @@ const About = () => {
               HTML, CSS, JavaScript, React, dan Tailwind CSS. Saya bersemangat untuk mengembangkan solusi web yang intuitif dan responsif. Meskipun saya lebih mahir di front-end, saya juga memiliki pemahaman dasar tentang back-end yang
               membantu saya berkolaborasi dengan tim full-stack. Saya selalu terbuka untuk peluang baru dan siap berkontribusi dalam proyek menarik. Silakan lihat karya saya di bagian portfolio!
             </h3>
-            <a href="..assets/cv-frontend-web-developer>
-            <button className="bg-green-500 hover:bg-green-700 text-white font-medium py-2 px-4 rounded mt-6">Download CV</button>
+            <a href="..assets/cv-frontend-web-developer className="bg-green-500 hover:bg-green-700 text-white font-medium py-2 px-4 rounded mt-6">
+            Download CV
             </a>
           </div>
         </div>
